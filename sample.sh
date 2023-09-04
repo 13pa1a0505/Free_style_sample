@@ -4,4 +4,4 @@
 # This is for testing purpose
 ######
 
-echo "Welcome to the freestyle project."
+echo "Welcome to the freestyle projects."
